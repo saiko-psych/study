@@ -5,3 +5,4 @@ Auf jeden Fall
 - Klasse 
 - Schule
 - Muttersprache
+- Hallo haaaallloooo

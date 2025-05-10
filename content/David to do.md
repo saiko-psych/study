@@ -27,4 +27,3 @@
 - [ ] Clearing Stellen anschreiben
 - [ ] mit michael nochmal quatschen wegen betreuung und clearing stellen und aktuellen stand
 
-ahölajbdvaaöskn 

@@ -1,3 +1,5 @@
+
+
 ##### heute
 - [x] raphi schreiben
 	- [x] jenni freischalten bei notion
@@ -24,3 +26,5 @@
 	- [x] finales abgabedatum festlegen!!!
 - [ ] Clearing Stellen anschreiben
 - [ ] mit michael nochmal quatschen wegen betreuung und clearing stellen und aktuellen stand
+
+ahölajbdvaaöskn 

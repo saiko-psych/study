@@ -25,5 +25,5 @@
 	- [x] wer macht was abklären
 	- [x] finales abgabedatum festlegen!!!
 - [ ] Clearing Stellen anschreiben
-- [ ] mit michael nochmal quatschen wegen betreuung und clearing stellen und aktuellen stand
+- [x] mit michael nochmal quatschen wegen betreuung und clearing stellen und aktuellen stand
 

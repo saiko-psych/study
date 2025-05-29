@@ -30,13 +30,18 @@
 
 - [ ] Email entwurf machen für schulen anschreiben
 	- [ ] ein eigenes für VS und MS
+		- [x] für MS
+		- [ ] für VS
+	- [x] Einverständiserklärung MS
+	- [ ] Einverständiserklärung VS
 	- [x] an elias senden
 	- [ ] an Iannilli senden
-	- [ ] festlegen wie das Vorgehen ist
-	- [ ] Template finalisieren
+	- [x] festlegen wie das Vorgehen ist
+	- [x] Template finalisieren
 - [ ] alle schulen kontaktieren
 - [x] Notion Liste festlegen
-- [ ] Studiendesing update
-	- [ ] und an elias senden
-- [ ] 
+- [x] Studiendesing update
+	- [x] und an elias senden
+
+
 

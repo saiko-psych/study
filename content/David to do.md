@@ -27,3 +27,16 @@
 - [ ] Clearing Stellen anschreiben
 - [x] mit michael nochmal quatschen wegen betreuung und clearing stellen und aktuellen stand
 
+
+- [ ] Email entwurf machen für schulen anschreiben
+	- [ ] ein eigenes für VS und MS
+	- [x] an elias senden
+	- [ ] an Iannilli senden
+	- [ ] festlegen wie das Vorgehen ist
+	- [ ] Template finalisieren
+- [ ] alle schulen kontaktieren
+- [x] Notion Liste festlegen
+- [ ] Studiendesing update
+	- [ ] und an elias senden
+- [ ] 
+
